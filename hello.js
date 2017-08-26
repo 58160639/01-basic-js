@@ -2,6 +2,6 @@ function hello(name){
 return `hello ${name}`
 }
 
-function SayHi(){
+function SayHi('Hi'){
 
 }
