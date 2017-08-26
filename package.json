@@ -1,0 +1,16 @@
+{
+  "name": "01-basic-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sirirat1@bitbucket.org/sirirat1/01-basic-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/sirirat1/01-basic-js#readme"
+}
